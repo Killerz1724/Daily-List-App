@@ -2,6 +2,10 @@
 
 ![App Display](public/assets/documentation/dashboard.png)
 
+## Database using postGres SQL mini Diagram
+
+![database_diagram](https://github.com/user-attachments/assets/66b1d04f-d8be-439d-8790-d6539bfb5639)
+
 ## Technology
 
 <img width=221 alt="EJS Logo" src="https://github.com/user-attachments/assets/b3e59fcb-392e-4797-9c45-6279a5dc3425">
